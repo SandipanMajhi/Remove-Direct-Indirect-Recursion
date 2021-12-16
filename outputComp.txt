@@ -1,0 +1,9 @@
+A B a A1 
+A c A1 
+B d B1 
+B c A1 b B1 
+A1 a A1 
+A1 ?
+B1 b B1 
+B1 a A1 b B1 
+B1 ?
